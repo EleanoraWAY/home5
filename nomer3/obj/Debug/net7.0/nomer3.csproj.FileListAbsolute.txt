@@ -1,0 +1,14 @@
+C:\lesson5\nomer3\bin\Debug\net7.0\nomer3.exe
+C:\lesson5\nomer3\bin\Debug\net7.0\nomer3.deps.json
+C:\lesson5\nomer3\bin\Debug\net7.0\nomer3.runtimeconfig.json
+C:\lesson5\nomer3\bin\Debug\net7.0\nomer3.dll
+C:\lesson5\nomer3\bin\Debug\net7.0\nomer3.pdb
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.AssemblyInfoInputs.cache
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.AssemblyInfo.cs
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.csproj.CoreCompileInputs.cache
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.dll
+C:\lesson5\nomer3\obj\Debug\net7.0\refint\nomer3.dll
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.pdb
+C:\lesson5\nomer3\obj\Debug\net7.0\nomer3.genruntimeconfig.cache
+C:\lesson5\nomer3\obj\Debug\net7.0\ref\nomer3.dll
